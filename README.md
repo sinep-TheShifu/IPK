@@ -1,3 +1,8 @@
+Computer networking course
+1. Project - 20 out of 20 points
+2. Project - 12 out of 20 points
+
+
 # IPK
 Počítačové komunikace a sítě
 
